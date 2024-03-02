@@ -10,6 +10,7 @@ PrivateResource=
 ResourceIncludes=
 MakeIncludes=
 Compiler=
+CppCompiler=
 Linker=
 IsCpp=1
 Icon=
